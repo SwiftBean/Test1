@@ -32,4 +32,4 @@ sum1=int(score1)+int(score2)+int(score3)+int(score4)+int(score5)
 avg=sum1/5
 print(avg)
 input() 
-#added in git
+
