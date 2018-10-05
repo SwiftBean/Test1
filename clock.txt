@@ -1,0 +1,3 @@
+I created this clock program using imports for time and sys
+It prints as Month/Day/Year:hour:minute:second
+I created it so there's a small delay between each loop

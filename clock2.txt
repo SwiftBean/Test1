@@ -1,0 +1,3 @@
+I created this clock using imports for time and calendar
+I used a while True loop on this one as well, along with a time.sleep delay
+It shows up in the format hours:minutes:second
