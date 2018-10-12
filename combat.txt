@@ -1,0 +1,3 @@
+This is a fight or run combat between your hero and trolls. If you fight there's 
+a random chance of dealing damage between 0 and 30, and if you run you are a 
+coward
